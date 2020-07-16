@@ -1,0 +1,8 @@
+int i;
+double delta;
+int a;
+char varchar;
+float k;
+float m;
+double my;
+int h;
